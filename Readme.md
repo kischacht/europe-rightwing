@@ -6,7 +6,7 @@ Download the (2015) data here:
 
 [Excel Spreadsheet (eu_rightwing.xlsx)](https://github.com/kostasx/europe-rightwing/raw/refs/heads/master/map/eu_rightwing.xlsx)
 
-Read the archived articles here (accessed via [archive.org](archive.org)):
+Read the archived articles here (_accessed via [archive.org](archive.org)_):
 
 - [Pflichtlektüre - Karte: Die Rechten Europas](https://web.archive.org/web/20240522202020/http://www.pflichtlektuere.com/04/02/2016/karte-die-rechten-europas/)
 - [Pflichtlektüre - Thesentest: Rechte Parteien im Vergleich](https://web.archive.org/web/20240623022311/http://www.pflichtlektuere.com/04/02/2016/thesentest-rechte-parteien-im-vergleich/)
@@ -14,7 +14,6 @@ Read the archived articles here (accessed via [archive.org](archive.org)):
 Original sources:
 
 - [Pflichtlektüre - Karte: Die Rechten Europas](http://www.pflichtlektuere.com/04/02/2016/karte-die-rechten-europas/)
-
 - [Pflichtlektüre - Thesentest: Rechte Parteien im Vergleich](http://www.pflichtlektuere.com/04/02/2016/thesentest-rechte-parteien-im-vergleich/)
 
 ## chord
