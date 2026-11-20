@@ -2,19 +2,24 @@
 
 This respository contains the code and data used for the *pflichtlektuere* project on right wing parteies in the EU member and applicant states.
 
-Download the data here:
+Download the (2015) data here:
 
 [Excel Spreadsheet (eu_rightwing.xlsx)](https://github.com/kostasx/europe-rightwing/raw/refs/heads/master/map/eu_rightwing.xlsx)
 
-Read the articles here:
+Read the archived articles here (accessed via [archive.org](archive.org)):
 
-[Pflichtlektüre - Karte: Die Rechten Europas](http://www.pflichtlektuere.com/04/02/2016/karte-die-rechten-europas/)
+- [Pflichtlektüre - Karte: Die Rechten Europas](https://web.archive.org/web/20240522202020/http://www.pflichtlektuere.com/04/02/2016/karte-die-rechten-europas/)
+- [Pflichtlektüre - Thesentest: Rechte Parteien im Vergleich](https://web.archive.org/web/20240623022311/http://www.pflichtlektuere.com/04/02/2016/thesentest-rechte-parteien-im-vergleich/)
 
-[Pflichtlektüre - Thesentest: Rechte Parteien im Vergleich](http://www.pflichtlektuere.com/04/02/2016/thesentest-rechte-parteien-im-vergleich/)
+Original sources:
+
+- [Pflichtlektüre - Karte: Die Rechten Europas](http://www.pflichtlektuere.com/04/02/2016/karte-die-rechten-europas/)
+
+- [Pflichtlektüre - Thesentest: Rechte Parteien im Vergleich](http://www.pflichtlektuere.com/04/02/2016/thesentest-rechte-parteien-im-vergleich/)
 
 ## chord
 
-The folder *chord* contains code and data for the chord diagram. The code was originally written by Nadieh Bremer. She wrote a detailed tutorial, it's available [here](http://www.visualcinnamon.com/2015/08/stretched-chord.html)  on her blog, VisualCinnamon.
+The folder *chord* contains code and data for the chord diagram. The code was originally written by Nadieh Bremer. She wrote a detailed tutorial, it's available [here: _Hacking a chord diagram to visualize a flow_](http://www.visualcinnamon.com/2015/08/stretched-chord.html)  on her blog, VisualCinnamon.
 
 
 ## jaccard
