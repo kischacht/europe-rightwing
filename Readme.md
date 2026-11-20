@@ -4,7 +4,7 @@ This respository contains the code and data used for the *pflichtlektuere* proje
 
 Download the (2015) data here:
 
-[Excel Spreadsheet (eu_rightwing.xlsx)](https://github.com/kostasx/europe-rightwing/raw/refs/heads/master/map/eu_rightwing.xlsx)
+[Excel Spreadsheet (eu_rightwing.xlsx)](https://github.com/kischacht/europe-rightwing/raw/refs/heads/master/map/eu_rightwing.xlsx)
 
 Read the archived articles here (_accessed via [archive.org](archive.org)_):
 
